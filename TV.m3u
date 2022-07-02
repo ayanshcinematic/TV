@@ -159,7 +159,7 @@ https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Saam_TV.jpg" group-title="News",Saam TV News
 https://live.wmncdn.net/saam/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/TV9_Marathi_News.jpg" group-title="News",Tv9 Marathi
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634160226/ei/AvpmYY2yNZWYg8UPzNeTwAE/ip/103.100.80.86/id/oRRLy76VVyA.8/source/yt_live_broadcast/requiressl/yes/tx/24047101/txs/24047098%2C24047099%2C24047100%2C24047101%2C24047102%2C24047103%2C24047104/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKhQQKEh_COeQGIBBX-8UDv2r9D8tWL0dDCKIdOBWcYjAiEA0yEcCfZ0TFj0C4N_FyHIDInCAGlLUXZgkOudiXaSiow%3D/file/index.m3u8
+https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
 _____________________________________________________________________________________________________________________________________
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Discovery-Kids.png" group-title="Kids",Discovery Kids
